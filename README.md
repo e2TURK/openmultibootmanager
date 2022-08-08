@@ -1,4 +1,4 @@
-# OpenMultiBoot - 1.0 2014/10/03#
+# OpenMultiBoot v.1.3 - ENHANCED
 
 - OpenMultiBoot will be donated to OE-Alliance by GigaBlue.
 - OpenMultiBoot can be modified or adapted to work with stb's from other vendors as long naming "openMultiBoot" is not changed and logos of openMultiBoot persists.
@@ -25,6 +25,5 @@
 - It is not recommended to re-use existing settings - do not blame us if problems occur
 - Check your recording path configuration and existing timers if you attach a new device
 - Do not use Flash-Online if you have not booted your regularly flashed image - use delete/install in OpenMultiBoot of regularly flashed image
-- Special thx goes to skaman, kajgan, captain, arn354 and all testers!
-
-[![Play openMultiBoot YouTube](http://img.youtube.com/vi/WYOYCraLoMk/0.jpg)](https://www.youtube.com/watch?v=WYOYCraLoMk)
+- Special thx goes to skaman, kajgan, captain, arn354, dpeddi and all testers!
+- Enhanced version by e2TURK from [![@thawtes](https://github.com/thawtes)](https://github.com/thawtes)
